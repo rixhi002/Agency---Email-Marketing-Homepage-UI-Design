@@ -28,4 +28,6 @@ To view the homepage UI design, simply open the `index.html` file in your web br
 ## Contact
 
 If you have any questions or suggestions regarding this UI design, feel free to contact us at [Gmail](rishirajsaha16@gmail.com). ✉️
+
+## UI Design
 ![Presentation (1)](https://github.com/rixhi002/Agency---Email-Marketing-Homepage-UI-Design/assets/94241513/36b8ae0a-0a05-4e29-8367-355a9f89e75a)
